@@ -1,6 +1,6 @@
 # GreenMod
 Change log:
 
--Ore added
+- Ore added
 
 -
