@@ -5,4 +5,6 @@ Change log:
 
 - Minig features added
 
--
+- Crafting recepies added
+
+- 
