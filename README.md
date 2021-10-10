@@ -1,5 +1,6 @@
 # GreenMod
+Change log:
 
-This is the first time I (GreenBoyGreen) coded Minecraft modifications.
+-Ore added
 
-This Mod is 100% open source
+-
